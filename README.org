@@ -119,5 +119,7 @@ Puzzle 4. List some interesting and important examples of posets that haven't al
   Bartosz Milewski's lectures
 
   [[https://cat.boffosocko.com/][UCLA Category Theory Study Group]]; [[https://www.youtube.com/watch?v=soGQ286EaCs][associated hangout video]]
+  
+  [[https://mitpress.mit.edu/sites/default/files/sicp/index.html][Structure and Interpretation of Computer Programs]]
 
 
